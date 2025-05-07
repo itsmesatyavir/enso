@@ -1,0 +1,11 @@
+{
+  "name": "enso",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1",
+    "https-proxy-agent": "^7.0.2",
+    "random-useragent": "^0.5.0"
+  }
+}
